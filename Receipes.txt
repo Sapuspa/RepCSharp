@@ -9,5 +9,7 @@ Paratha
 Pasta
 Kheer
 Rasagula
+Panipuri
+Soup
 
 Thank You
